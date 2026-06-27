@@ -1,5 +1,5 @@
 # Memos installieren
-
+![](images/memos.png)
 ## Voraussetzungen
 
 Prüfe zunächst, ob Docker installiert ist:
