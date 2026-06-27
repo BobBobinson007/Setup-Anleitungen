@@ -1,5 +1,5 @@
 # Docker installieren
-![Alternativer Text](images/docker.png)
+![](images/docker.png)
 ## Installation
 
 Docker installieren:
